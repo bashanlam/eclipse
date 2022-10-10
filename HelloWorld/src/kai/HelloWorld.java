@@ -248,7 +248,11 @@ System.out.println("Start gcTest");
     */
 
 	public static void main(String[] args) {
-		gcTest();
+	
+	System.out.println("Testing GitHub");
+	
+		//gcTest();
+		
 		/* List<Integer> al = new ArrayList<Integer>();
         al.add(1);
         al.add(2);
